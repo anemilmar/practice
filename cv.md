@@ -17,14 +17,13 @@ I study at VSTU. I have good interpersonal communication skills and can work in 
 * Blender
 
 ### Code Example
-... 
-c++
+```c++
 #include <stdio.h>
 int main() {
    printf("Hello, World!");
    return 0;
 }
-...
+```
 
 # Education 
 Vitebsk State Technological University - Business analyst, programmer (2022-2026)
