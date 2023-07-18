@@ -17,21 +17,12 @@ I study at VSTU. I have good interpersonal communication skills and can work in 
 * Blender
 
 ### Code Example
-'''Java
-import java.util.Arrays;
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Задание 5:");
-        int[] B = new int[25];
-        System.out.println("Массив B:");
-        for (int i = 0; i < 25; i++) {
-            B[i] = ((int) (Math.random() * 101) - 50);
-        }
-        System.out.println(Arrays.toString(B));
-        Arrays.sort(B);
-        System.out.println("Отсортированный массив В:\n" + Arrays.toString(B));
-    }
-}
+'''c++
+#include <stdio.h>
+int main() {
+   printf (" Hello, world!");
+   reyurn 0;
+   }
 '''
 
 # Education 
